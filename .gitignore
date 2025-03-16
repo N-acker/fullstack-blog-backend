@@ -1,0 +1,8 @@
+# these are all the files that we don't want to push onto github
+
+/node_modules
+/mongoDB-data
+credentials.json
+
+# production
+/build
